@@ -1,0 +1,26 @@
+@font-face {
+  font-family: "KomikaAxis";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/KomikaAxis.woff2") format("woff2"),
+    url("../fonts/KomikaAxis.woff") format("woff"),
+    url("../fonts/KomikaAxis.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Impact";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/Impact.woff2") format("woff2"),
+    url("../fonts/Impact.woff") format("woff"),
+    url("../fonts/Impact.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Rumpelstiltskin";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/Rumpelstiltskin.woff2") format("woff2"),
+    url("../fonts/Rumpelstiltskin.woff") format("woff"),
+    url("../fonts/Rumpelstiltskin.ttf") format("truetype");
+}

@@ -1,0 +1,308 @@
+{"frames": {
+
+"Shop/exchangeBoxBack":
+{
+	"frame": {"x":1,"y":1,"w":391,"h":286},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":391,"h":286},
+	"sourceSize": {"w":391,"h":286}
+},
+"Shop/mc_blueprints_content_001":
+{
+	"frame": {"x":704,"y":1090,"w":348,"h":208},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":80,"w":348,"h":208},
+	"sourceSize": {"w":405,"h":306}
+},
+"Shop/mc_blueprints_content_002":
+{
+	"frame": {"x":1137,"y":513,"w":355,"h":215},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":75,"w":355,"h":215},
+	"sourceSize": {"w":405,"h":306}
+},
+"Shop/mc_blueprints_content_003":
+{
+	"frame": {"x":1494,"y":722,"w":355,"h":212},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":79,"w":355,"h":212},
+	"sourceSize": {"w":405,"h":306}
+},
+"Shop/mc_blueprints_content_004":
+{
+	"frame": {"x":1080,"y":730,"w":350,"h":218},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":75,"w":350,"h":218},
+	"sourceSize": {"w":405,"h":306}
+},
+"Shop/mc_blueprints_content_005":
+{
+	"frame": {"x":1,"y":1679,"w":336,"h":213},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":80,"w":336,"h":213},
+	"sourceSize": {"w":405,"h":306}
+},
+"Shop/mc_blueprints_content_006":
+{
+	"frame": {"x":349,"y":1652,"w":171,"h":259},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":28,"w":171,"h":259},
+	"sourceSize": {"w":405,"h":306}
+},
+"Shop/mc_blueprints_content_007":
+{
+	"frame": {"x":1,"y":589,"w":350,"h":288},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":3,"w":350,"h":288},
+	"sourceSize": {"w":405,"h":306}
+},
+"Shop/mc_blueprints_content_008":
+{
+	"frame": {"x":700,"y":1589,"w":344,"h":284},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":7,"w":344,"h":284},
+	"sourceSize": {"w":405,"h":306}
+},
+"Shop/mc_blueprints_content_009":
+{
+	"frame": {"x":1046,"y":1589,"w":342,"h":283},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":9,"w":342,"h":283},
+	"sourceSize": {"w":405,"h":306}
+},
+"Shop/mc_blueprints_content_010":
+{
+	"frame": {"x":353,"y":793,"w":350,"h":283},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":8,"w":350,"h":283},
+	"sourceSize": {"w":405,"h":306}
+},
+"Shop/mc_blueprints_content_011":
+{
+	"frame": {"x":1143,"y":1,"w":369,"h":291},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":4,"w":369,"h":291},
+	"sourceSize": {"w":405,"h":306}
+},
+"Shop/mc_blueprints_content_012":
+{
+	"frame": {"x":771,"y":289,"w":364,"h":296},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":1,"w":364,"h":296},
+	"sourceSize": {"w":405,"h":306}
+},
+"Shop/mc_blueprints_content_013":
+{
+	"frame": {"x":1,"y":289,"w":371,"h":298},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":0,"w":371,"h":298},
+	"sourceSize": {"w":405,"h":306}
+},
+"Shop/mc_blueprints_content_014":
+{
+	"frame": {"x":771,"y":1,"w":370,"h":286},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":13,"w":370,"h":286},
+	"sourceSize": {"w":405,"h":306}
+},
+"Shop/mc_blueprints_content_015":
+{
+	"frame": {"x":394,"y":1,"w":375,"h":287},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":12,"w":375,"h":287},
+	"sourceSize": {"w":405,"h":306}
+},
+"Shop/mc_blueprints_content_016":
+{
+	"frame": {"x":1390,"y":1510,"w":339,"h":282},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":7,"w":339,"h":282},
+	"sourceSize": {"w":405,"h":306}
+},
+"Shop/mc_blueprints_content_017":
+{
+	"frame": {"x":1403,"y":1225,"w":341,"h":283},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":6,"w":341,"h":283},
+	"sourceSize": {"w":405,"h":306}
+},
+"Shop/mc_blueprints_content_018":
+{
+	"frame": {"x":728,"y":587,"w":350,"h":285},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":6,"w":350,"h":285},
+	"sourceSize": {"w":405,"h":306}
+},
+"Shop/mc_blueprints_content_019":
+{
+	"frame": {"x":1054,"y":1169,"w":347,"h":295},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":1,"w":347,"h":295},
+	"sourceSize": {"w":405,"h":306}
+},
+"Shop/mc_blueprints_content_020":
+{
+	"frame": {"x":704,"y":1300,"w":347,"h":287},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":5,"w":347,"h":287},
+	"sourceSize": {"w":405,"h":306}
+},
+"Shop/mc_blueprints_content_021":
+{
+	"frame": {"x":1,"y":1390,"w":346,"h":287},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":6,"w":346,"h":287},
+	"sourceSize": {"w":405,"h":306}
+},
+"Shop/mc_blueprints_content_022":
+{
+	"frame": {"x":1,"y":1101,"w":348,"h":287},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":6,"w":348,"h":287},
+	"sourceSize": {"w":405,"h":306}
+},
+"Shop/mc_blueprints_content_023":
+{
+	"frame": {"x":1432,"y":936,"w":348,"h":287},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":6,"w":348,"h":287},
+	"sourceSize": {"w":405,"h":306}
+},
+"Shop/mc_blueprints_content_024":
+{
+	"frame": {"x":1057,"y":950,"w":348,"h":217},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":76,"w":348,"h":217},
+	"sourceSize": {"w":405,"h":306}
+},
+"Shop/mc_blueprints_content_025":
+{
+	"frame": {"x":351,"y":1363,"w":347,"h":287},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":6,"w":347,"h":287},
+	"sourceSize": {"w":405,"h":306}
+},
+"Shop/mc_blueprints_content_026":
+{
+	"frame": {"x":374,"y":290,"w":354,"h":284},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":6,"w":354,"h":284},
+	"sourceSize": {"w":405,"h":306}
+},
+"Shop/mc_blueprints_content_027":
+{
+	"frame": {"x":374,"y":576,"w":352,"h":215},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":77,"w":352,"h":215},
+	"sourceSize": {"w":405,"h":306}
+},
+"Shop/mc_blueprints_content_028":
+{
+	"frame": {"x":353,"y":1078,"w":349,"h":283},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":6,"w":349,"h":283},
+	"sourceSize": {"w":405,"h":306}
+},
+"Shop/mc_blueprints_content_029":
+{
+	"frame": {"x":705,"y":874,"w":350,"h":214},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":75,"w":350,"h":214},
+	"sourceSize": {"w":405,"h":306}
+},
+"Shop/mc_blueprints_content_030":
+{
+	"frame": {"x":1,"y":879,"w":350,"h":220},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":74,"w":350,"h":220},
+	"sourceSize": {"w":405,"h":306}
+},
+"Shop/mc_blueprints_content_031":
+{
+	"frame": {"x":1495,"y":504,"w":355,"h":216},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":79,"w":355,"h":216},
+	"sourceSize": {"w":405,"h":306}
+},
+"Shop/mc_blueprints_content_032":
+{
+	"frame": {"x":1514,"y":1,"w":357,"h":210},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":83,"w":357,"h":210},
+	"sourceSize": {"w":405,"h":306}
+},
+"Shop/mc_blueprints_content_033":
+{
+	"frame": {"x":1137,"y":294,"w":356,"h":217},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":78,"w":356,"h":217},
+	"sourceSize": {"w":405,"h":306}
+},
+"Shop/mc_blueprints_content_034":
+{
+	"frame": {"x":1514,"y":213,"w":356,"h":289},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":6,"w":356,"h":289},
+	"sourceSize": {"w":405,"h":306}
+},
+"Shop/owned01":
+{
+	"frame": {"x":522,"y":1875,"w":158,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":158,"h":31},
+	"sourceSize": {"w":158,"h":31}
+},
+"Shop/owned02":
+{
+	"frame": {"x":522,"y":1652,"w":158,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":158,"h":40},
+	"sourceSize": {"w":158,"h":40}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Windows-1.png",
+	"format": "RGBA8888",
+	"size": {"w":1872,"h":1912},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:96bcb2e7cdbffda8f06d7a398dc1ada8:745f4488e6a075fc3ec68b79cc362291:bec226186a8bd7cf1eb1318b50f6d8d6$"
+}
+}

@@ -1,0 +1,188 @@
+{"frames": {
+
+"Actors/Critters/critter03_sheep/elements/scrap/Scp_sheep1":
+{
+	"frame": {"x":427,"y":346,"w":54,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":54,"h":64},
+	"sourceSize": {"w":54,"h":64}
+},
+"Maps/Decor/FinishSign/light":
+{
+	"frame": {"x":154,"y":772,"w":29,"h":29},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":29,"h":29},
+	"sourceSize": {"w":29,"h":29}
+},
+"Maps/Decor/lights/lantern_01":
+{
+	"frame": {"x":1,"y":429,"w":156,"h":341},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":156,"h":341},
+	"sourceSize": {"w":156,"h":341}
+},
+"Maps/Decor/lights/lantern_02":
+{
+	"frame": {"x":401,"y":1,"w":99,"h":343},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":99,"h":343},
+	"sourceSize": {"w":99,"h":343}
+},
+"Maps/Decor/lights/lantern_02_decor_loc_05":
+{
+	"frame": {"x":1,"y":772,"w":98,"h":250},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":98,"h":250},
+	"sourceSize": {"w":98,"h":250}
+},
+"Maps/Decor/lights/lantern_03":
+{
+	"frame": {"x":299,"y":695,"w":128,"h":294},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":294},
+	"sourceSize": {"w":128,"h":294}
+},
+"Maps/Decor/lights/latern_loc_04":
+{
+	"frame": {"x":248,"y":1,"w":151,"h":343},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":151,"h":343},
+	"sourceSize": {"w":151,"h":343}
+},
+"Maps/Decor/post/electric pole1_loc_04":
+{
+	"frame": {"x":299,"y":346,"w":126,"h":347},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":126,"h":347},
+	"sourceSize": {"w":126,"h":347}
+},
+"Maps/Decor/post/electric pole2_loc_04":
+{
+	"frame": {"x":159,"y":429,"w":138,"h":341},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":138,"h":341},
+	"sourceSize": {"w":138,"h":341}
+},
+"Maps/Decor/statues/statue_loc_01":
+{
+	"frame": {"x":1,"y":1,"w":245,"h":426},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":245,"h":426},
+	"sourceSize": {"w":245,"h":426}
+},
+"Maps/Objects/barels/barrel_black":
+{
+	"frame": {"x":101,"y":772,"w":51,"h":73},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":73},
+	"sourceSize": {"w":51,"h":73}
+},
+"Maps/Objects/bone/skull_man":
+{
+	"frame": {"x":216,"y":772,"w":31,"h":26},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":31,"h":26},
+	"sourceSize": {"w":31,"h":26}
+},
+"Maps/Objects/bricks/block_red_02":
+{
+	"frame": {"x":248,"y":346,"w":28,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":31},
+	"sourceSize": {"w":28,"h":31}
+},
+"Maps/Objects/bricks/block_sand_02":
+{
+	"frame": {"x":101,"y":991,"w":28,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":31},
+	"sourceSize": {"w":28,"h":31}
+},
+"Maps/Objects/cage/Scp_sheep1":
+{
+	"frame": {"x":427,"y":346,"w":54,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":54,"h":64},
+	"sourceSize": {"w":54,"h":64}
+},
+"Maps/Objects/scrap/barrel_black_profile_scrap02":
+{
+	"frame": {"x":427,"y":412,"w":29,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":29,"h":28},
+	"sourceSize": {"w":29,"h":28}
+},
+"Maps/Objects/scrap/barrel_gold_profile_scrap02":
+{
+	"frame": {"x":101,"y":847,"w":29,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":29,"h":28},
+	"sourceSize": {"w":29,"h":28}
+},
+"Maps/Objects/scrap/barrel_red_profile_scrap02":
+{
+	"frame": {"x":154,"y":803,"w":29,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":29,"h":28},
+	"sourceSize": {"w":29,"h":28}
+},
+"Maps/Objects/scrap/barrel_silver_profile_scrap02":
+{
+	"frame": {"x":185,"y":772,"w":29,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":29,"h":28},
+	"sourceSize": {"w":29,"h":28}
+},
+"Maps/Objects/scrap/Scp_box_blue_unit_04":
+{
+	"frame": {"x":427,"y":442,"w":29,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":29,"h":25},
+	"sourceSize": {"w":29,"h":25}
+},
+"Maps/Objects/scrap/Scp_box_green_unit_04":
+{
+	"frame": {"x":101,"y":877,"w":29,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":29,"h":25},
+	"sourceSize": {"w":29,"h":25}
+},
+"Maps/Objects/scrap/Scp_box_red_unit_04":
+{
+	"frame": {"x":185,"y":802,"w":29,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":29,"h":25},
+	"sourceSize": {"w":29,"h":25}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Levels-2.png",
+	"format": "RGBA8888",
+	"size": {"w":501,"h":1023},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:c89c73d88a8e1ff6624026f09fa139ef:4c4929f5c18e69ca0501e09637cd4a7b:8df083dc3651f308ca360777cc132f0d$"
+}
+}

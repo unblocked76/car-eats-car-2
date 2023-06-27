@@ -1,0 +1,152 @@
+{
+  "dataGame": {
+    "ach": {
+      "item": [
+        {
+          "name": "Destroyer",
+          "data": [5, 20, 50, 200, 500],
+          "cost": [5, 20, 50, 100, 200]
+        },
+        {
+          "name": "Mechanic",
+          "data": [2, 5, 10, 20, 50],
+          "cost": [5, 10, 20, 50, 100]
+        },
+        {
+          "name": "Angel",
+          "data": [2, 5, 10, 15, 25],
+          "cost": [10, 20, 50, 100, 200]
+        },
+        {
+          "name": "Acrobat",
+          "data": [2, 4, 6, 8, 10],
+          "cost": [10, 20, 50, 100, 200]
+        },
+        {
+          "name": "Tycoon",
+          "data": [100, 500, 2000, 5000, 10000],
+          "cost": [5, 10, 20, 50, 100]
+        },
+        {
+          "name": "Impregnable",
+          "data": [1, 3, 5, 7, 10],
+          "cost": [10, 20, 50, 100, 200]
+        },
+        {
+          "name": "Driver",
+          "data": [5, 10, 20, 50, 100],
+          "cost": [5, 10, 20, 50, 100]
+        },
+        {
+          "name": "Persistent",
+          "data": [1, 3, 5, 10, 20],
+          "cost": [5, 10, 20, 50, 100]
+        },
+        {
+          "name": "Boss1",
+          "data": [1],
+          "cost": [50]
+        },
+        {
+          "name": "Boss2",
+          "data": [1],
+          "cost": [100]
+        },
+        {
+          "name": "Boss3",
+          "data": [1],
+          "cost": [150]
+        },
+        {
+          "name": "Boss4",
+          "data": [1],
+          "cost": [200]
+        },
+        {
+          "name": "Boss5",
+          "data": [1],
+          "cost": [300]
+        },
+        {
+          "name": "HardCore",
+          "data": [1, 3, 5, 10, 20],
+          "cost": [5, 10, 20, 50, 100]
+        }
+      ]
+    },
+    "levelBonus": {
+      "easy": 0,
+      "normal": 0.5,
+      "hard": 1
+    },
+    "conver": {
+      "money": {
+        "data": 100,
+        "price": 1
+      },
+      "donat": {
+        "data": 1,
+        "price": 100
+      }
+    },
+    "carsUpgrade": {
+      "car": {
+        "index": 1,
+        "item": [
+          {
+            "name": "health",
+            "item": [200, 400, 600, 800, 1000]
+          },
+          {
+            "name": "turbo",
+            "item": [10, 15, 20, 25, 30]
+          },
+          {
+            "name": "wheels",
+            "item": [1, 2, 3, 4, 5]
+          },
+          {
+            "name": "speed",
+            "item": [0.3, 0.5, 0.7, 0.8, 1]
+          }
+        ]
+      }
+    },
+    "carsPrice": {
+      "car": {
+        "index": 1,
+        "money": 0,
+        "item": [
+          {
+            "name": "health",
+            "item": [100, 600, 1200, 2200, 3500]
+          },
+          {
+            "name": "turbo",
+            "item": [200, 700, 1400, 2400, 4000]
+          },
+          {
+            "name": "wheels",
+            "item": [300, 800, 1600, 2600, 4500]
+          },
+          {
+            "name": "speed",
+            "item": [400, 900, 1800, 2800, 5000]
+          },
+          {
+            "name": "bombs",
+            "item": [500, 1000, 2000, 3000, 5500]
+          },
+          {
+            "name": "gadgets",
+            "item": [50, 100, 200, 400, 800]
+          },
+          {
+            "name": "blaster",
+            "item": [300, 600, 1000]
+          }
+        ]
+      }
+    }
+  }
+}

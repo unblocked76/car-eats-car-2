@@ -1,0 +1,940 @@
+{"frames": {
+
+"Achievements/achBig_1_1_001":
+{
+	"frame": {"x":1446,"y":521,"w":157,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":157,"h":183},
+	"sourceSize": {"w":160,"h":186}
+},
+"Achievements/achBig_1_1_002":
+{
+	"frame": {"x":1446,"y":706,"w":157,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":157,"h":183},
+	"sourceSize": {"w":160,"h":186}
+},
+"Achievements/achBig_1_2_001":
+{
+	"frame": {"x":1129,"y":849,"w":157,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":157,"h":183},
+	"sourceSize": {"w":160,"h":186}
+},
+"Achievements/achBig_1_2_002":
+{
+	"frame": {"x":1438,"y":891,"w":157,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":157,"h":183},
+	"sourceSize": {"w":160,"h":186}
+},
+"Achievements/achBig_1_3_001":
+{
+	"frame": {"x":1429,"y":1076,"w":157,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":157,"h":183},
+	"sourceSize": {"w":160,"h":186}
+},
+"Achievements/achBig_1_3_002":
+{
+	"frame": {"x":1588,"y":1132,"w":157,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":157,"h":183},
+	"sourceSize": {"w":160,"h":186}
+},
+"Achievements/achBig_1_4_001":
+{
+	"frame": {"x":1,"y":1573,"w":157,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":157,"h":183},
+	"sourceSize": {"w":160,"h":186}
+},
+"Achievements/achBig_1_4_002":
+{
+	"frame": {"x":160,"y":1573,"w":157,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":157,"h":183},
+	"sourceSize": {"w":160,"h":186}
+},
+"Achievements/achBig_1_5_001":
+{
+	"frame": {"x":319,"y":1573,"w":157,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":157,"h":183},
+	"sourceSize": {"w":160,"h":186}
+},
+"Achievements/achBig_1_5_002":
+{
+	"frame": {"x":478,"y":1573,"w":157,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":157,"h":183},
+	"sourceSize": {"w":160,"h":186}
+},
+"Achievements/achBig_2_1_001":
+{
+	"frame": {"x":1747,"y":1311,"w":123,"h":173},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":123,"h":173},
+	"sourceSize": {"w":126,"h":176}
+},
+"Achievements/achBig_2_1_002":
+{
+	"frame": {"x":1547,"y":1573,"w":123,"h":173},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":123,"h":173},
+	"sourceSize": {"w":126,"h":176}
+},
+"Achievements/achBig_2_2_001":
+{
+	"frame": {"x":1672,"y":1573,"w":123,"h":173},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":123,"h":173},
+	"sourceSize": {"w":126,"h":176}
+},
+"Achievements/achBig_2_2_002":
+{
+	"frame": {"x":1797,"y":1573,"w":123,"h":173},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":123,"h":173},
+	"sourceSize": {"w":126,"h":176}
+},
+"Achievements/achBig_2_3_001":
+{
+	"frame": {"x":1,"y":1388,"w":123,"h":173},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":123,"h":173},
+	"sourceSize": {"w":126,"h":176}
+},
+"Achievements/achBig_2_3_002":
+{
+	"frame": {"x":126,"y":1388,"w":123,"h":173},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":123,"h":173},
+	"sourceSize": {"w":126,"h":176}
+},
+"Achievements/achBig_2_4_001":
+{
+	"frame": {"x":251,"y":1388,"w":123,"h":173},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":123,"h":173},
+	"sourceSize": {"w":126,"h":176}
+},
+"Achievements/achBig_2_4_002":
+{
+	"frame": {"x":376,"y":1388,"w":123,"h":173},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":123,"h":173},
+	"sourceSize": {"w":126,"h":176}
+},
+"Achievements/achBig_2_5_001":
+{
+	"frame": {"x":501,"y":1388,"w":123,"h":173},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":123,"h":173},
+	"sourceSize": {"w":126,"h":176}
+},
+"Achievements/achBig_2_5_002":
+{
+	"frame": {"x":626,"y":1388,"w":123,"h":173},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":123,"h":173},
+	"sourceSize": {"w":126,"h":176}
+},
+"Achievements/achBig_3_1_001":
+{
+	"frame": {"x":751,"y":1388,"w":117,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":167},
+	"sourceSize": {"w":120,"h":170}
+},
+"Achievements/achBig_3_1_002":
+{
+	"frame": {"x":870,"y":1388,"w":117,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":167},
+	"sourceSize": {"w":120,"h":170}
+},
+"Achievements/achBig_3_2_001":
+{
+	"frame": {"x":989,"y":1388,"w":117,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":167},
+	"sourceSize": {"w":120,"h":170}
+},
+"Achievements/achBig_3_2_002":
+{
+	"frame": {"x":1108,"y":1388,"w":117,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":167},
+	"sourceSize": {"w":120,"h":170}
+},
+"Achievements/achBig_3_3_001":
+{
+	"frame": {"x":1227,"y":1388,"w":117,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":167},
+	"sourceSize": {"w":120,"h":170}
+},
+"Achievements/achBig_3_3_002":
+{
+	"frame": {"x":1346,"y":1403,"w":117,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":167},
+	"sourceSize": {"w":120,"h":170}
+},
+"Achievements/achBig_3_4_001":
+{
+	"frame": {"x":1465,"y":1403,"w":117,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":167},
+	"sourceSize": {"w":120,"h":170}
+},
+"Achievements/achBig_3_4_002":
+{
+	"frame": {"x":1,"y":1053,"w":117,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":167},
+	"sourceSize": {"w":120,"h":170}
+},
+"Achievements/achBig_3_5_001":
+{
+	"frame": {"x":120,"y":1053,"w":117,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":167},
+	"sourceSize": {"w":120,"h":170}
+},
+"Achievements/achBig_3_5_002":
+{
+	"frame": {"x":239,"y":1053,"w":117,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":167},
+	"sourceSize": {"w":120,"h":170}
+},
+"Achievements/achBig_4_1_001":
+{
+	"frame": {"x":1876,"y":1068,"w":128,"h":175},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":175},
+	"sourceSize": {"w":131,"h":178}
+},
+"Achievements/achBig_4_1_002":
+{
+	"frame": {"x":637,"y":1573,"w":128,"h":175},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":175},
+	"sourceSize": {"w":131,"h":178}
+},
+"Achievements/achBig_4_2_001":
+{
+	"frame": {"x":767,"y":1573,"w":128,"h":175},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":175},
+	"sourceSize": {"w":131,"h":178}
+},
+"Achievements/achBig_4_2_002":
+{
+	"frame": {"x":897,"y":1573,"w":128,"h":175},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":175},
+	"sourceSize": {"w":131,"h":178}
+},
+"Achievements/achBig_4_3_001":
+{
+	"frame": {"x":1027,"y":1573,"w":128,"h":175},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":175},
+	"sourceSize": {"w":131,"h":178}
+},
+"Achievements/achBig_4_3_002":
+{
+	"frame": {"x":1157,"y":1034,"w":128,"h":175},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":175},
+	"sourceSize": {"w":131,"h":178}
+},
+"Achievements/achBig_4_4_001":
+{
+	"frame": {"x":1157,"y":1211,"w":128,"h":175},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":175},
+	"sourceSize": {"w":131,"h":178}
+},
+"Achievements/achBig_4_4_002":
+{
+	"frame": {"x":1157,"y":1573,"w":128,"h":175},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":175},
+	"sourceSize": {"w":131,"h":178}
+},
+"Achievements/achBig_4_5_001":
+{
+	"frame": {"x":1287,"y":1573,"w":128,"h":175},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":175},
+	"sourceSize": {"w":131,"h":178}
+},
+"Achievements/achBig_4_5_002":
+{
+	"frame": {"x":1417,"y":1573,"w":128,"h":175},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":175},
+	"sourceSize": {"w":131,"h":178}
+},
+"Achievements/achBig_5_1_001":
+{
+	"frame": {"x":676,"y":1202,"w":92,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":92,"h":144},
+	"sourceSize": {"w":96,"h":148}
+},
+"Achievements/achBig_5_1_002":
+{
+	"frame": {"x":740,"y":1050,"w":92,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":92,"h":144},
+	"sourceSize": {"w":96,"h":148}
+},
+"Achievements/achBig_5_2_001":
+{
+	"frame": {"x":833,"y":901,"w":92,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":92,"h":144},
+	"sourceSize": {"w":96,"h":148}
+},
+"Achievements/achBig_5_2_002":
+{
+	"frame": {"x":927,"y":901,"w":92,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":92,"h":144},
+	"sourceSize": {"w":96,"h":148}
+},
+"Achievements/achBig_5_3_001":
+{
+	"frame": {"x":1021,"y":913,"w":92,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":92,"h":144},
+	"sourceSize": {"w":96,"h":148}
+},
+"Achievements/achBig_5_3_002":
+{
+	"frame": {"x":770,"y":1196,"w":92,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":92,"h":144},
+	"sourceSize": {"w":96,"h":148}
+},
+"Achievements/achBig_5_4_001":
+{
+	"frame": {"x":834,"y":1047,"w":92,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":92,"h":144},
+	"sourceSize": {"w":96,"h":148}
+},
+"Achievements/achBig_5_4_002":
+{
+	"frame": {"x":864,"y":1193,"w":92,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":92,"h":144},
+	"sourceSize": {"w":96,"h":148}
+},
+"Achievements/achBig_5_5_001":
+{
+	"frame": {"x":958,"y":1059,"w":92,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":92,"h":144},
+	"sourceSize": {"w":96,"h":148}
+},
+"Achievements/achBig_5_5_002":
+{
+	"frame": {"x":1052,"y":1059,"w":92,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":92,"h":144},
+	"sourceSize": {"w":96,"h":148}
+},
+"Achievements/achBig_6_1_001":
+{
+	"frame": {"x":1288,"y":1000,"w":139,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":139,"h":140},
+	"sourceSize": {"w":142,"h":144}
+},
+"Achievements/achBig_6_1_002":
+{
+	"frame": {"x":1872,"y":1431,"w":139,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":139,"h":140},
+	"sourceSize": {"w":142,"h":144}
+},
+"Achievements/achBig_6_2_001":
+{
+	"frame": {"x":1,"y":1758,"w":139,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":139,"h":140},
+	"sourceSize": {"w":142,"h":144}
+},
+"Achievements/achBig_6_2_002":
+{
+	"frame": {"x":142,"y":1758,"w":139,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":139,"h":140},
+	"sourceSize": {"w":142,"h":144}
+},
+"Achievements/achBig_6_3_001":
+{
+	"frame": {"x":283,"y":1758,"w":139,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":139,"h":140},
+	"sourceSize": {"w":142,"h":144}
+},
+"Achievements/achBig_6_3_002":
+{
+	"frame": {"x":424,"y":1758,"w":139,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":139,"h":140},
+	"sourceSize": {"w":142,"h":144}
+},
+"Achievements/achBig_6_4_001":
+{
+	"frame": {"x":565,"y":1758,"w":139,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":139,"h":140},
+	"sourceSize": {"w":142,"h":144}
+},
+"Achievements/achBig_6_4_002":
+{
+	"frame": {"x":1287,"y":1142,"w":139,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":139,"h":140},
+	"sourceSize": {"w":142,"h":144}
+},
+"Achievements/achBig_6_5_001":
+{
+	"frame": {"x":1428,"y":1261,"w":139,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":139,"h":140},
+	"sourceSize": {"w":142,"h":144}
+},
+"Achievements/achBig_6_5_002":
+{
+	"frame": {"x":1584,"y":1317,"w":139,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":139,"h":140},
+	"sourceSize": {"w":142,"h":144}
+},
+"Achievements/achBig_7_1_001":
+{
+	"frame": {"x":706,"y":1750,"w":90,"h":148},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":148},
+	"sourceSize": {"w":92,"h":150}
+},
+"Achievements/achBig_7_1_002":
+{
+	"frame": {"x":798,"y":1750,"w":90,"h":148},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":148},
+	"sourceSize": {"w":92,"h":150}
+},
+"Achievements/achBig_7_2_001":
+{
+	"frame": {"x":890,"y":1750,"w":90,"h":148},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":148},
+	"sourceSize": {"w":92,"h":150}
+},
+"Achievements/achBig_7_2_002":
+{
+	"frame": {"x":982,"y":1750,"w":90,"h":148},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":148},
+	"sourceSize": {"w":92,"h":150}
+},
+"Achievements/achBig_7_3_001":
+{
+	"frame": {"x":1074,"y":1750,"w":90,"h":148},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":148},
+	"sourceSize": {"w":92,"h":150}
+},
+"Achievements/achBig_7_3_002":
+{
+	"frame": {"x":1166,"y":1750,"w":90,"h":148},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":148},
+	"sourceSize": {"w":92,"h":150}
+},
+"Achievements/achBig_7_4_001":
+{
+	"frame": {"x":1258,"y":1750,"w":90,"h":148},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":148},
+	"sourceSize": {"w":92,"h":150}
+},
+"Achievements/achBig_7_4_002":
+{
+	"frame": {"x":1350,"y":1750,"w":90,"h":148},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":148},
+	"sourceSize": {"w":92,"h":150}
+},
+"Achievements/achBig_7_5_001":
+{
+	"frame": {"x":1442,"y":1750,"w":90,"h":148},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":148},
+	"sourceSize": {"w":92,"h":150}
+},
+"Achievements/achBig_7_5_002":
+{
+	"frame": {"x":1534,"y":1750,"w":90,"h":148},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":148},
+	"sourceSize": {"w":92,"h":150}
+},
+"Achievements/achBig_8_1_001":
+{
+	"frame": {"x":104,"y":1222,"w":93,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":93,"h":153},
+	"sourceSize": {"w":96,"h":156}
+},
+"Achievements/achBig_8_1_002":
+{
+	"frame": {"x":199,"y":1222,"w":93,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":93,"h":153},
+	"sourceSize": {"w":96,"h":156}
+},
+"Achievements/achBig_8_2_001":
+{
+	"frame": {"x":320,"y":894,"w":93,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":93,"h":153},
+	"sourceSize": {"w":96,"h":156}
+},
+"Achievements/achBig_8_2_002":
+{
+	"frame": {"x":294,"y":1222,"w":93,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":93,"h":153},
+	"sourceSize": {"w":96,"h":156}
+},
+"Achievements/achBig_8_3_001":
+{
+	"frame": {"x":1626,"y":1748,"w":93,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":93,"h":151},
+	"sourceSize": {"w":96,"h":154}
+},
+"Achievements/achBig_8_3_002":
+{
+	"frame": {"x":1721,"y":1748,"w":93,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":93,"h":151},
+	"sourceSize": {"w":96,"h":154}
+},
+"Achievements/achBig_8_4_001":
+{
+	"frame": {"x":358,"y":1053,"w":93,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":93,"h":153},
+	"sourceSize": {"w":96,"h":156}
+},
+"Achievements/achBig_8_4_002":
+{
+	"frame": {"x":415,"y":894,"w":93,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":93,"h":153},
+	"sourceSize": {"w":96,"h":156}
+},
+"Achievements/achBig_8_5_001":
+{
+	"frame": {"x":389,"y":1208,"w":93,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":93,"h":153},
+	"sourceSize": {"w":96,"h":156}
+},
+"Achievements/achBig_8_5_002":
+{
+	"frame": {"x":453,"y":1053,"w":93,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":93,"h":153},
+	"sourceSize": {"w":96,"h":156}
+},
+"Achievements/achBig_9_1_001":
+{
+	"frame": {"x":1033,"y":615,"w":94,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":94,"h":147},
+	"sourceSize": {"w":97,"h":150}
+},
+"Achievements/achBig_9_1_002":
+{
+	"frame": {"x":1033,"y":764,"w":94,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":94,"h":147},
+	"sourceSize": {"w":97,"h":150}
+},
+"Achievements/achBig_9_2_001":
+{
+	"frame": {"x":1816,"y":1748,"w":94,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":94,"h":147},
+	"sourceSize": {"w":97,"h":150}
+},
+"Achievements/achBig_9_2_002":
+{
+	"frame": {"x":1912,"y":1748,"w":94,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":94,"h":147},
+	"sourceSize": {"w":97,"h":150}
+},
+"Achievements/achBig_9_3_001":
+{
+	"frame": {"x":510,"y":894,"w":94,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":94,"h":147},
+	"sourceSize": {"w":97,"h":150}
+},
+"Achievements/achBig_9_3_002":
+{
+	"frame": {"x":484,"y":1208,"w":94,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":94,"h":147},
+	"sourceSize": {"w":97,"h":150}
+},
+"Achievements/achBig_9_4_001":
+{
+	"frame": {"x":548,"y":1053,"w":94,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":94,"h":147},
+	"sourceSize": {"w":97,"h":150}
+},
+"Achievements/achBig_9_4_002":
+{
+	"frame": {"x":580,"y":1202,"w":94,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":94,"h":147},
+	"sourceSize": {"w":97,"h":150}
+},
+"Achievements/achBig_9_5_001":
+{
+	"frame": {"x":644,"y":1053,"w":94,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":94,"h":147},
+	"sourceSize": {"w":97,"h":150}
+},
+"Achievements/achBig_9_5_002":
+{
+	"frame": {"x":737,"y":901,"w":94,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":94,"h":147},
+	"sourceSize": {"w":97,"h":150}
+},
+"Achievements/achBig_10_1_001":
+{
+	"frame": {"x":1132,"y":329,"w":312,"h":258},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":312,"h":258},
+	"sourceSize": {"w":314,"h":260}
+},
+"Achievements/achBig_10_1_002":
+{
+	"frame": {"x":1132,"y":589,"w":312,"h":258},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":312,"h":258},
+	"sourceSize": {"w":314,"h":260}
+},
+"Achievements/achBig_10_2_001":
+{
+	"frame": {"x":1642,"y":1,"w":354,"h":279},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":354,"h":279},
+	"sourceSize": {"w":356,"h":280}
+},
+"Achievements/achBig_10_2_002":
+{
+	"frame": {"x":1642,"y":282,"w":354,"h":279},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":354,"h":279},
+	"sourceSize": {"w":356,"h":280}
+},
+"Achievements/achBig_10_3_001":
+{
+	"frame": {"x":737,"y":615,"w":294,"h":284},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":294,"h":284},
+	"sourceSize": {"w":296,"h":286}
+},
+"Achievements/achBig_10_3_002":
+{
+	"frame": {"x":1605,"y":563,"w":294,"h":284},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":294,"h":284},
+	"sourceSize": {"w":296,"h":286}
+},
+"Achievements/achBig_10_4_001":
+{
+	"frame": {"x":783,"y":329,"w":347,"h":284},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":347,"h":284},
+	"sourceSize": {"w":349,"h":292}
+},
+"Achievements/achBig_10_4_002":
+{
+	"frame": {"x":388,"y":608,"w":347,"h":284},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":347,"h":284},
+	"sourceSize": {"w":349,"h":292}
+},
+"Achievements/achBig_10_5_001":
+{
+	"frame": {"x":396,"y":329,"w":385,"h":277},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":385,"h":277},
+	"sourceSize": {"w":387,"h":279}
+},
+"Achievements/achBig_10_5_002":
+{
+	"frame": {"x":1,"y":589,"w":385,"h":277},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":385,"h":277},
+	"sourceSize": {"w":387,"h":279}
+},
+"Achievements/body01":
+{
+	"frame": {"x":1,"y":1,"w":454,"h":258},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":454,"h":258},
+	"sourceSize": {"w":456,"h":264}
+},
+"Achievements/body02":
+{
+	"frame": {"x":1605,"y":849,"w":269,"h":281},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":192,"y":0,"w":269,"h":281},
+	"sourceSize": {"w":461,"h":281}
+},
+"Achievements/slot_001":
+{
+	"frame": {"x":1446,"y":329,"w":163,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":163,"h":190},
+	"sourceSize": {"w":163,"h":190}
+},
+"Achievements/slot_006":
+{
+	"frame": {"x":1876,"y":884,"w":131,"h":182},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":4,"w":131,"h":182},
+	"sourceSize": {"w":163,"h":190}
+},
+"Achievements/slot_011":
+{
+	"frame": {"x":1747,"y":1132,"w":125,"h":177},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":7,"w":125,"h":177},
+	"sourceSize": {"w":163,"h":190}
+},
+"Achievements/slot_016":
+{
+	"frame": {"x":1874,"y":1245,"w":137,"h":184},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":3,"w":137,"h":184},
+	"sourceSize": {"w":163,"h":190}
+},
+"Achievements/slot_021":
+{
+	"frame": {"x":1,"y":1222,"w":101,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":31,"y":19,"w":101,"h":153},
+	"sourceSize": {"w":163,"h":190}
+},
+"Achievements/slot_026":
+{
+	"frame": {"x":1288,"y":849,"w":148,"h":149},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":21,"w":148,"h":149},
+	"sourceSize": {"w":163,"h":190}
+},
+"Achievements/slot_031":
+{
+	"frame": {"x":637,"y":894,"w":98,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":17,"w":98,"h":157},
+	"sourceSize": {"w":163,"h":190}
+},
+"Achievements/slot_036":
+{
+	"frame": {"x":1901,"y":720,"w":101,"h":162},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":31,"y":14,"w":101,"h":162},
+	"sourceSize": {"w":163,"h":190}
+},
+"Achievements/slot_041":
+{
+	"frame": {"x":1901,"y":563,"w":102,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":31,"y":18,"w":102,"h":155},
+	"sourceSize": {"w":163,"h":190}
+},
+"Achievements/trophy_prt10":
+{
+	"frame": {"x":1,"y":868,"w":317,"h":97},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":317,"h":97},
+	"sourceSize": {"w":317,"h":97}
+},
+"Shop/mc_blueprints_031":
+{
+	"frame": {"x":457,"y":1,"w":393,"h":326},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":393,"h":326},
+	"sourceSize": {"w":407,"h":326}
+},
+"Shop/mc_blueprints_032":
+{
+	"frame": {"x":1,"y":261,"w":393,"h":326},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":393,"h":326},
+	"sourceSize": {"w":407,"h":326}
+},
+"Shop/mc_blueprints_033":
+{
+	"frame": {"x":852,"y":1,"w":393,"h":326},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":393,"h":326},
+	"sourceSize": {"w":407,"h":326}
+},
+"Shop/mc_blueprints_034":
+{
+	"frame": {"x":1247,"y":1,"w":393,"h":326},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":393,"h":326},
+	"sourceSize": {"w":407,"h":326}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Windows-3.png",
+	"format": "RGBA8888",
+	"size": {"w":2012,"h":1900},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:49776224bc03c355de4c6a7b4e5c1b32:5c427d2c3fd27acd7b764e55da338066:19fdba2e158783012714a4bccef7c6ce$"
+}
+}

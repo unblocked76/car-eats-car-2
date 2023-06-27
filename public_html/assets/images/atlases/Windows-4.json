@@ -1,0 +1,20 @@
+{"frames": {
+
+"art3":
+{
+	"frame": {"x":1,"y":1,"w":735,"h":561},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":735,"h":561},
+	"sourceSize": {"w":735,"h":564}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Windows-4.png",
+	"format": "RGBA8888",
+	"size": {"w":737,"h":563},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:b6fa187180727e230ae14447895cc10c:c5112943ec8586eb4d9488a5bd5d76cf:03a07c4bda9f3a3c4a77d371c90bf156$"
+}
+}
